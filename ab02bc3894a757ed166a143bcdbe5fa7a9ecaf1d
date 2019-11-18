@@ -1,0 +1,1 @@
+{"jobID":"3d3bca7a-3f83-57b0-9d2a-3f580d80acad","spec":{"type":"policy","cause":{"Message":"","User":"Subhankar Sahu \u003csubhankar.sahu84@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
